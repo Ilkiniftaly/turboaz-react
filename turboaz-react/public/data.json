@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "Marka": "BMW",
+    "Model": "530",
+    "BuraxilisIli": "2019",
+    "Rəng": "Ağ",
+    "Muherrik": {
+      "MuherrikHecm": "2.0 L",
+      "AtGucu": "249 a.g.",
+      "Muherriknovu": "Benzin"
+    },
+    "Yurus": "128 000 km",
+    "Qiymet": "33 700 USD",
+    "Image": "https://turbo.azstatic.com/uploads/full/2024%2F11%2F11%2F23%2F10%2F49%2F5f31dcd2-7f4f-4399-b4e5-422da7868eda%2F15247_eRuz4Do5pS0g3SY6jF6RZg.jpg"
+  },
+  {
+    "id": "2",
+    "Marka": "BMW",
+    "Model": "M5",
+    "BuraxilisIli": "2018",
+    "Reng": "Göy",
+    "Muherrik": {
+      "MuherrikHecm": "4.4 L",
+      "AtGucu": "625 a.g.",
+      "Muherriknovu": "Benzin"
+    },
+    "Yurus": "52 000 km",
+    "Qiymet": "89 000 USD",
+    "Image": "https://turbo.azstatic.com/uploads/full/2024%2F08%2F01%2F21%2F23%2F07%2Fabe08342-3d6e-49b6-85c6-7292717a9826%2F12183_ogtQftp0VNM0b8HrfrDIcQ.jpg"
+  },
+  {
+    "id": "3",
+    "Marka": "Hyundai",
+    "Model": "Grandeur",
+    "BuraxilisIli": "2024",
+    "Reng": "Qara",
+    "Muherrik": {
+      "MuherrikHecm": "1.6 L",
+      "AtGucu": "230 a.g.",
+      "Muherriknovu": "Hibrit"
+    },
+    "Yurus": "0 km",
+    "Qiymet": "80 900 AZN",
+    "Image": "https://turbo.azstatic.com/uploads/full/2024%2F03%2F13%2F10%2F02%2F12%2F03bfb8eb-6a8a-405c-99fb-e5f04d863dcf%2F90393_ODR1trMUn1QUOVEF2iZirw.jpg"
+  },
+  {
+    "id": "4",
+    "Marka": "Land Rover",
+    "Model": "Defender",
+    "BuraxilisIli": "2023",
+    "Reng": "Qara",
+    "Muherrik": {
+      "MuherrikHecm": "3 L",
+      "AtGucu": "400 a.g.",
+      "Muherriknovu": "Benzin"
+    },
+    "Yurus": "4 300 km",
+    "Qiymet": "113 500 USD",
+    "Image": "https://turbo.azstatic.com/uploads/full/2025%2F04%2F01%2F15%2F49%2F32%2Fd2ba7e9c-6b2e-456b-8928-e899a216320f%2F70473_QrTN9IRaiEdJVbJnUL_W4A.jpg"
+  },
+  {
+    "id": "5",
+    "Marka": "Toyota",
+    "Model": "Camry",
+    "BuraxilisIli": "2022",
+    "Reng": "Qara",
+    "Muherrik": {
+      "MuherrikHecm": "2.5 L",
+      "AtGucu": "218 a.g.",
+      "Muherriknovu": "Hibrit"
+    },
+    "Yurus": "60 600 km",
+    "Qiymet": "28 800 USD",
+    "Image": "https://turbo.azstatic.com/uploads/full/2025%2F04%2F13%2F21%2F18%2F07%2Ffa80d987-9e5c-4105-b1fe-462564fdc130%2F27314_nl5hK4zSmPDP2ykAjfmWfg.jpg"
+  },
+  {
+    "id": "6",
+    "Marka": "Nissan",
+    "Model": "Patrol",
+    "BuraxilisIli": "2024",
+    "Reng": "Qara",
+    "Muherrik": {
+      "MuherrikHecm": "3.5 L",
+      "AtGucu": "425 a.g.",
+      "Muherriknovu": "Benzin"
+    },
+    "Yurus": "0 km",
+    "Qiymet": "145 000 USD",
+    "Image": "https://turbo.azstatic.com/uploads/full/2025%2F04%2F08%2F21%2F28%2F58%2F72b4676d-26c4-435a-84a5-e75dc61e6568%2F2746_FhBLeET6_RWLOHbwaKgtUw.jpg"
+  },
+  {
+    "id": "7",
+    "Marka": "Mercedes",
+    "Model": "GLE 350 4MATIC",
+    "BuraxilisIli": "2023",
+    "Reng": "Qara",
+    "Muherrik": {
+      "MuherrikHecm": "2 L",
+      "AtGucu": "333 a.g.",
+      "Muherriknovu": "Plug-in Hibrit"
+    },
+    "Yurus": "11 500 k",
+    "Qiymet": "78 400 USD",
+    "Image": "https://turbo.azstatic.com/uploads/full/2025%2F02%2F26%2F01%2F35%2F55%2F9f5ad5e1-0efc-4f14-84c1-7ec2455f3a5f%2F83603_NnVipO7k_8o2mR0vhpmgbA.jpg"
+  },
+  {
+    "id": "8",
+    "Marka": "Lexus",
+    "Model": "LX 600",
+    "BuraxilisIli": "2023",
+    "Reng": "Qara",
+    "Muherrik": {
+      "MuherrikHecm": "3.5 L",
+      "AtGucu": "415 a.g.",
+      "Muherriknovu": "Benzin"
+    },
+    "Yurus": "15 500 km",
+    "Qiymet": "155 000 USD",
+    "Image": "https://turbo.azstatic.com/uploads/full/2025%2F04%2F14%2F10%2F47%2F33%2Ff2d7062f-4368-465c-ae93-0db640ca16d4%2F27314_nl5hK4zSmPDP2ykAjfmWfg.jpg"
+  }
+]

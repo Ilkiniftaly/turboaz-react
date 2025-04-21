@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1010px;
+  margin: 0 auto;
+}
+
+.mainBuy-flex {
+  display: flex;
+}
+
+.mainBuy-flex h2 {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.mainBuy-flex p {
+  font-family: Helvetica, Arial, sans-serif;
+}
