@@ -1,8 +1,8 @@
-import "./CarDetalist";
+import "./CarDetalist.css";
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 
-function CarDetalist() {
+function carDetalist() {
   const [items, setItems] = useState([]);
 
   useEffect(() => {
@@ -33,31 +33,42 @@ function CarDetalist() {
   return (
     <div>
       <div className="container">
-        {items.map((item) => (
-          <div key={item.id}>
-            <div className="mainBuy-flex">
-              <div className="main-info">
-                <h2>
-                  {item.Marka} {item.Model}, {item.BuraxilisIli} il,{" "}
-                  {item.Yurus}
-                </h2>
-                <img src={item.Image} alt="" />
-                <p>{item.Marka}</p>
-                <p>{item.Model}</p>
-                <p>{item.BuraxilisIli}</p>
-                <p>{item.Reng}</p>
-                <p>
-                  {item.Muherrik.MuherrikHecm} / {item.Muherrik.Muherriknovu}
-                </p>
-                <p>{}</p>
-              </div>
-              <div className="buy">{item.Qiymet}</div>
+        <div key={item.id}>
+          <div className="mainBuy-flex">
+            <div className="main-info">
+              <h2>
+                {item.Marka} {item.Model}, {item.BuraxilisIli} il, {item.Yurus}
+              </h2>
+              <img src={item.Image} alt="" />
+              <hr className="hr-cardetalist" />
+              <p>
+                <span className="carDetalist-text-css">Marka</span>
+                {item.Marka}
+              </p>
+              <p>
+                <span className="carDetalist-text-model-css">Model</span>{" "}
+                {item.Model}
+              </p>
+              <p>
+                <span className="carDetalist-text-css-BuraxIli">
+                  Buraxili ili
+                </span>
+                {item.BuraxilisIli}
+              </p>
+              <p>
+                <span className="carDetalist-text-css">Reng</span> {item.Reng}
+              </p>
+              <p className="muhHecm-Yanacag-css">
+                <span className="carDetalist-text-css-Yanacag">Muherrik</span>
+                {item.Muherrik.MuherrikHecm} / {item.Muherrik.Muherriknovu}
+              </p>
             </div>
+            <div className="buy">{item.Qiymet}</div>
           </div>
-        ))}
+        </div>
       </div>
     </div>
   );
 }
 
-export default CarDetalist;
+export default carDetalist;

@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 
-function Cars() {
+function cars() {
   const [items, setItems] = useState([]);
   useEffect(() => {
     async function FetchData() {
@@ -62,4 +62,4 @@ function Cars() {
   );
 }
 
-export default Cars;
+export default cars;

@@ -20,3 +20,51 @@
 .mainBuy-flex p {
   font-family: Helvetica, Arial, sans-serif;
 }
+
+.main-info img {
+  margin-top: 20px;
+  width: 600px;
+  height: 480px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.hr-cardetalist {
+  margin: 10px 0;
+}
+
+.muhHecm-Yanacag-css {
+  margin-bottom: 20px;
+}
+
+.buy {
+  margin-top: 50px;
+  margin-left: 20px;
+  font-size: 20px;
+  height: 213px;
+  width: 270px;
+  padding: 20px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  background-color: #f6f7fa;
+  border-radius: 5px;
+}
+
+.carDetalist-text-css,
+.carDetalist-text-css-BuraxIli {
+  margin-right: 60px;
+  color: #8d94ad;
+}
+
+.carDetalist-text-model-css {
+  color: #8d94ad;
+  margin-right: 56px;
+}
+
+.carDetalist-text-css-BuraxIli {
+  margin-right: 36px;
+}
+.carDetalist-text-css-Yanacag {
+  margin-right: 40px;
+  color: #8d94ad;
+}
