@@ -33,7 +33,7 @@ function carDetalist() {
   return (
     <div>
       <div className="container">
-        <div key={item.id}>
+        <div className="name-cardetalist-css" key={item.id}>
           <div className="mainBuy-flex">
             <div className="main-info">
               <h2>

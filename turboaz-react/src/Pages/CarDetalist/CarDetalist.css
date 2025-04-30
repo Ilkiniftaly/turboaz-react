@@ -7,6 +7,7 @@
 .container {
   max-width: 1010px;
   margin: 0 auto;
+  /* margin-left: 20px; */
 }
 
 .mainBuy-flex {
@@ -23,7 +24,7 @@
 
 .main-info img {
   margin-top: 20px;
-  width: 600px;
+  width: 640px;
   height: 480px;
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
@@ -35,19 +36,6 @@
 
 .muhHecm-Yanacag-css {
   margin-bottom: 20px;
-}
-
-.buy {
-  margin-top: 50px;
-  margin-left: 20px;
-  font-size: 20px;
-  height: 213px;
-  width: 270px;
-  padding: 20px;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: 600;
-  background-color: #f6f7fa;
-  border-radius: 5px;
 }
 
 .carDetalist-text-css,
@@ -67,4 +55,16 @@
 .carDetalist-text-css-Yanacag {
   margin-right: 40px;
   color: #8d94ad;
+}
+
+.buy {
+  margin: 50px 0 0 20px;
+  font-size: 20px;
+  height: 213px;
+  width: 325px;
+  padding: 20px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  background-color: #f6f7fa;
+  border-radius: 5px;
 }

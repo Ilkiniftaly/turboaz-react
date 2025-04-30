@@ -4,7 +4,7 @@
     "Marka": "BMW",
     "Model": "530",
     "BuraxilisIli": "2019",
-    "Rəng": "Ağ",
+    "Reng": "Ağ",
     "Muherrik": {
       "MuherrikHecm": "2.0 L",
       "AtGucu": "249 a.g.",
@@ -38,7 +38,7 @@
     "Muherrik": {
       "MuherrikHecm": "1.6 L",
       "AtGucu": "230 a.g.",
-      "Muherriknovu": "Hibrit"
+      "Muherriknovu": "Hybrid"
     },
     "Yurus": "0 km",
     "Qiymet": "80 900 AZN",
@@ -68,7 +68,7 @@
     "Muherrik": {
       "MuherrikHecm": "2.5 L",
       "AtGucu": "218 a.g.",
-      "Muherriknovu": "Hibrit"
+      "Muherriknovu": "Hybrid"
     },
     "Yurus": "60 600 km",
     "Qiymet": "28 800 USD",
@@ -98,9 +98,9 @@
     "Muherrik": {
       "MuherrikHecm": "2 L",
       "AtGucu": "333 a.g.",
-      "Muherriknovu": "Plug-in Hibrit"
+      "Muherriknovu": "Plug-in Hybrid"
     },
-    "Yurus": "11 500 k",
+    "Yurus": "11 500 km",
     "Qiymet": "78 400 USD",
     "Image": "https://turbo.azstatic.com/uploads/full/2025%2F02%2F26%2F01%2F35%2F55%2F9f5ad5e1-0efc-4f14-84c1-7ec2455f3a5f%2F83603_NnVipO7k_8o2mR0vhpmgbA.jpg"
   },
